@@ -31,6 +31,10 @@ Right now this repo contains a custom Snake game with classic rules, a desktop w
 - `P`: pause
 - `R`: restart
 
+## PR Demo
+
+This short section is added from a demo feature branch to show how a pull request looks in practice.
+
 ## Structure
 
 ```text
